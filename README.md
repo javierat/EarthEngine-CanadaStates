@@ -1,1 +1,3 @@
-# EarthEngine-CanadaStates
+# 🇨🇦 Canada States Data
+# 🍁 Description 🍁
+# 🥞 Visualization 🥞
