@@ -4,3 +4,4 @@ Google Earth Engine
 
 # 🍁 Description 🍁
 # 🥞 Visualization 🥞
+<Canada Map>
