@@ -3,10 +3,10 @@
 Google Earth Engine
 
 # 🍁 Description 🍁
-# 🥞 Visualization 🥞
+# Visualization 
 <Canada Map>
 
-## Table
+# Table
 
 | State | EE Map Points | Max Latitude | Min Latitude | Max Longitude | Min longitude | 
 |:---|:---|:---|:---|:---|:---|
